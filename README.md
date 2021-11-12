@@ -1,1 +1,6 @@
-# ADISE21_it134122
+# The Repository
+This is the repository of:
+* Simon Mantzouranis 134122
+* Konstantinos Toumpidis 134132
+
+Game theme TBA
